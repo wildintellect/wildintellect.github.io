@@ -1,4 +1,4 @@
 wildintellect.github.io
 =======================
 
-http://wildintellect.com
+https://wildintellect.com
